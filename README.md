@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"><li>깊이 있는 분석력과 뛰어난 적응력을 겸비한 프론트엔드 개발자로 다양한 경험을 통해 더 넓은 시각을 가진 개발자로 성장해 나갈것입니다. </li></div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"><li>깊이 있는 분석력과 뛰어난 적응력을 겸비한 프론트엔드 개발자입니다</li> <li>다양한 경험을 통해 더 넓은 시각을 가진 개발자로 성장해 나갈것입니다</li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
