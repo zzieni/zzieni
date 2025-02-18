@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20JiEun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gray&height=300&section=header&text=Kim%20JiEun&fontSize=90)
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,html,js,ts,eclipse,notion,figma,github,supabase,vite,vscode)](https://skillicons.dev)
